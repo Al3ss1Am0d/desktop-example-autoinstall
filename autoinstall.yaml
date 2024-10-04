@@ -2,8 +2,8 @@ autoinstall:
   version: 1
   identity:
     hostname: ubuntu-desktop
-    username: local-optimum
-    password: "$6$ZE4WV3QRJhPUnsNv$BpkTBYjUOxOiWV5sNPYDSitTwxW.3NHLmhRqptzpa8a4KTxGpkvMaSDbyq4PVri9kdpD1t7ldUBgwB6uveObg."
+    username: al3ss1am0d
+    password: "123456"
   storage:
     layout:
       name: lvm
